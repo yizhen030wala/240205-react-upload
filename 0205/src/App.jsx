@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        0205 testtttttt 
+        0205 testtttttt up load 
       </p>
     </>
   )
